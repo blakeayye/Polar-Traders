@@ -1,6 +1,7 @@
 # Polar-Traders
  A script that allows players to trade stuff with npcs
 
+DISCORD: https://discord.gg/polar
 
 ![image](https://user-images.githubusercontent.com/102779658/227053194-57e09218-246b-486e-b284-775db3e369b9.png)
 
